@@ -1,3 +1,4 @@
+.gitignore
 .vscode
 numbers.json
 __pycache__
